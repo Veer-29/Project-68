@@ -1,0 +1,52 @@
+.collapse navbar-collapse{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+#School-name{
+    text-align: center;
+    width: 100%;
+    font-family: Algerian;
+    text-decoration-color: white;
+    background: linear-gradient( #f018d7 0%,#90CAF9 100%);
+    border-radius: 50px;
+}
+
+#video{
+    width: 200;
+    height: 200;
+    text-align: center;
+}
+
+#details{
+    text-align: center;
+}
+
+.mynav{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+contact_1 h3
+{
+    display: inline;
+}
+
+.h1{
+    font-family:inherit;
+}
+
+.h2{
+    font-family:inherit;
+}
+
+#contact-us{
+    background: linear-gradient(#458bf5 0%,#90CAF9 100%);
+        border-radius:50px;
+}
+
+    
+
+
